@@ -1,0 +1,12 @@
+[submodule "nomad-hacker/cyb3rlivin"]
+	path = nomad-hacker/cyb3rlivin
+	url = https://github.com/nomad-hacker/cyb3rliving
+[submodule "nomad-hacker/anon-feedback"]
+	path = nomad-hacker/anon-feedback
+	url = https://github.com/nomad-hacker/anon-feedback
+[submodule "nomad-hacker/hackhouse"]
+	path = nomad-hacker/hackhouse
+	url = https://github.com/nomad-hacker/hackhouse
+[submodule "nomad-hacker/eas-contracts"]
+	path = nomad-hacker/eas-contracts
+	url = https://github.com/nomad-hacker/eas-contracts
