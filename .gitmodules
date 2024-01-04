@@ -10,6 +10,6 @@
 [submodule "nomad-hacker/eas-contracts"]
 	path = nomad-hacker/eas-contracts
 	url = https://github.com/nomad-hacker/eas-contracts
-[submodules "riverai"]
-	path = ./
+[submodules "haonchon/riverai"]
+	path = haochon/riverai
 	url = https://github.com/haonchon/riverai
