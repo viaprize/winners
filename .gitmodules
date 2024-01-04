@@ -67,3 +67,6 @@
 [submodule "pact/pact"]
 	path = pact/pact
 	url = https://github.com/viaprize/pact
+[submodule "pact/pastecal"]
+	path = pact/pastecal
+	url = https://github.com/kazad/pastecal
