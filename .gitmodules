@@ -10,3 +10,42 @@
 [submodule "nomad-hacker/eas-contracts"]
 	path = nomad-hacker/eas-contracts
 	url = https://github.com/nomad-hacker/eas-contracts
+[submodule "riverai"]
+	path = riverai
+	url = https://github.com/haonchon/riverai.git
+[submodule "Viaprize_contracts"]
+	path = Viaprize_contracts
+	url = https://github.com/viaprize/Viaprize_contracts
+[submodule "rollup-royale"]
+	path = rollup-royale
+	url = https://github.com/BladeDaoGames/rollup-royale
+[submodule "snap-eth-zip"]
+	path = snap-eth-zip
+	url = https://github.com/shaokun11/snap-eth-zip
+[submodule "consensual-messaging"]
+	path = consensual-messaging
+	url = https://github.com/trevor-trinh/consensual-messaging
+[submodule "housing-hackathon"]
+	path = housing-hackathon
+	url = https://github.com/samueloh99/housing-hackathon
+[submodule "lott3ry"]
+	path = lott3ry
+	url = https://github.com/lott3ry/lott3ry
+[submodule "unic"]
+	path = unic
+	url = https://github.com/h3lio5/unic/
+[submodule "ZKredible"]
+	path = ZKredible
+	url = https://github.com/Mingzhe-W/ZKredible
+[submodule "zk-voting/zk-voting-relayer"]
+	path = zk-voting/zk-voting-relayer
+	url = https://github.com/viaprize/zk-voting-relayer
+[submodule "zk-voting/zkvoting"]
+	path = zk-voting/zkvoting
+	url = https://github.com/viaprize/zkvoting
+[submodule "socialite_graph"]
+	path = socialite_graph
+	url = https://github.com/Whaleslee/socialite_graph
+[submodule "zuzagorauth"]
+	path = zuzagorauth
+	url = https://github.com/0xPetra/zuzagorauth
