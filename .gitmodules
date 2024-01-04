@@ -49,3 +49,6 @@
 [submodule "zuzagorauth"]
 	path = zuzagorauth
 	url = https://github.com/0xPetra/zuzagorauth
+[submodule "1e671ab6ea15536db3eef697b8a59b24"]
+	path = 1e671ab6ea15536db3eef697b8a59b24
+	url = https://gist.github.com/jessykate/1e671ab6ea15536db3eef697b8a59b24
